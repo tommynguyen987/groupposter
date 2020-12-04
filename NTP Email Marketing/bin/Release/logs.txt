@@ -1,0 +1,16 @@
+﻿04/01/2017 10:14:00 CH
+Start posting to group!
+Subject:  [ 20/07/2017 ] Chương Trình Khuyến Mãi Của Zanado
+From email file: F:\Dropbox\PROGRAMMING\Demo\Group Poster\NTP Email Marketing\Categories\SanKhuyenMai\EmailList.txt
+
+Finish posting to group!
+Data inserted into database
+
+06/01/2017 02:47:12
+Start posting to group!
+Subject:  [ 14/12/2017 ] Chương Trình Khuyến Mãi Của Topmot
+From email file: F:\Dropbox\PROGRAMMING\Demo\Group Poster\NTP Email Marketing\Categories\SanKhuyenMai\EmailList.txt
+
+Finish posting to group!
+Data inserted into database
+
